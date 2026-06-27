@@ -1,4 +1,5 @@
 img {
     height: 20px !important;
     aspect-ratio: 1 !important;
+    flex-shrink: 0;
 }
