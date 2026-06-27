@@ -1,5 +1,6 @@
 .headerlogo {
-    height: 20px !important;
-    width: 20px !important;
-    flex-shrink: 0 !important;
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    display: block;
 }
