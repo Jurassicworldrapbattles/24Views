@@ -1,5 +1,4 @@
 .headerlogo {
     height: 25px;
-    aspect-ratio: 1;
-    flex-shrink: 0;
+    width: 25px;
 }
