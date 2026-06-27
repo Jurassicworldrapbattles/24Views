@@ -1,5 +1,6 @@
-img {
+header img {
     height: 20px !important;
+    width: 20px !important;
     aspect-ratio: 1 !important;
-    flex-shrink: 0;
+    flex-shrink: 0 !important;
 }
