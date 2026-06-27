@@ -1,4 +1,4 @@
 img {
-    height: 20px;
-    aspect-ratio: 1;
+    height: 20px !important;
+    aspect-ratio: 1 !important;
 }
